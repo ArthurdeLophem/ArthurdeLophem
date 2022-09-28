@@ -4,8 +4,9 @@
 <p align='center'> :arrow_down: quick info tldr iguess :arrow_down:</p>
 
 #
-- 🔭 I’m not an astronomer but i like to give your project the moon
+
 - 🌱 Currently growing as a student in Interactive Multimedia & Design
+- 🔭 I’m not an astronomer but i like to give your project the moon
 - :racing_car: taking inspiration from ferraris to bring cool n fast things
 
 
