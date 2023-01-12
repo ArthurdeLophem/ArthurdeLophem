@@ -7,8 +7,7 @@
 ### let me introduce myself:
 <p>I'm Arthur de Lophem. I'm now into my third year at Thomas More Uni in Interactive Multimedia & Design and looking to specialize further into creative web development. 
 <p>one project i can already share, to show my interests:</p>
-[3d donut generator](https://github.com/ArthurdeLophem/donutello)
-[lab - 2](https://github.com/ArthurdeLophem/dev5-portfolio/tree/main/dev-lab-2/le-bingo)
+<a href="https://github.com/ArthurdeLophem/donutello">3d donut generator</a>
 <p>others are still ongoing projects that aren't ready for takeoff yet</p>
 <p>&nbsp;</p>
 
@@ -18,10 +17,10 @@
 <p>🌱 Currently growing as a student in Interactive Multimedia & Design</p>
 <p>🔭 I’m not an astronomer but i like to give your project the moon</p></p>
 <p>:racing_car: taking inspiration from ferraris to bring cool n fast things</p>
+<p>🏫 student in IMD at Thomas More Uni</p>
+<p>🚀 learning web technology with the ambition to continue in creative web dev</p>
+<p>🎾hitting 200km/h serves ftw</p>
 <p>&nbsp;</p>
-
-<p>ending with stats...</p>
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurdeLophem&count_private=true&show_icons=true)
 
 
 <!--
