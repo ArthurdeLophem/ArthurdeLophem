@@ -1,12 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="350"/>  
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="400"/>  
 </div>
-<h3 align="center">HeyHeyHey come here</h3>
 <p>&nbsp;</p>
 
 ### let me introduce myself:
 <p>I'm Arthur de Lophem. I'm now into my third year at Thomas More Uni in Interactive Multimedia & Design and looking to specialize further into creative web development. 
-<p>one project i can already share, to show my interests:</p>
+<p>one project i can already share, to show my interests:
 <a href="https://github.com/ArthurdeLophem/donutello">3d donut generator</a>
 <p>others are still ongoing projects that aren't ready for takeoff yet</p>
 <p>&nbsp;</p>
