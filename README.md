@@ -10,6 +10,18 @@
 <p>others are still ongoing projects that aren't ready for takeoff yet</p>
 <p>&nbsp;</p>
 
+<p align='center'> :arrow_down: Tools i use for 100% success rate :arrow_down:</p>
+
+#
+<p>VSCode</p>
+<p>Github</p>
+<p>Blender</p>
+<p>Figma</p>
+<p>Air</p>
+<p>Pastry</p>
+<p>Beer (after work)</p>
+<p>&nbsp;</p>
+
 <p align='center'> :arrow_down: quick info tldr iguess :arrow_down:</p>
 
 #
