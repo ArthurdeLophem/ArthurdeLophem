@@ -31,7 +31,7 @@
 <p>🌱 Currently growing as a student in Interactive Multimedia & Design</p>
 <p>🔭 I’m not an astronomer but i like to give your project the moon</p></p>
 <p>:racing_car: taking inspiration from ferraris to bring cool n fast things</p>
-<p>🏫 student in IMD at Thomas More Uni</p>
+<p>🏫 IMD graduate at Thomas More Uni - Traject3d graduate at LUCA School of Arts</p>
 <p>🚀 learning web technology with the ambition to continue in creative web dev</p>
 <p>🎾hitting 200km/h serves ftw</p>
 <p>&nbsp;</p>
